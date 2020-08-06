@@ -16,3 +16,4 @@ Check solution into GitHub
 3. From any browser navigate to the URL ````localhost:3000````
 
 ###### Application Result Screenshot:
+The application result screenshot is provided in the **result** folder.
