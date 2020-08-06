@@ -1,0 +1,80 @@
+[
+    {
+        "id": 23121,
+        "customerName": "Paul",
+        "transactionAmount": 185,
+        "transactionDate": "10-01-2020"
+    },
+    {
+        "id": 23122,
+        "customerName": "George",
+        "transactionAmount": 115,
+        "transactionDate": "10-01-2020"
+    },
+    {
+        "id": 23123,
+        "customerName": "Peter",
+        "transactionAmount": 120,
+        "transactionDate": "10-01-2020"
+    },
+    {
+        "id": 23124,
+        "customerName": "Jack",
+        "transactionAmount": 16,
+        "transactionDate": "10-01-2020"
+    },
+    {
+        "id": 23125,
+        "customerName": "Julie",
+        "transactionAmount": 94,
+        "transactionDate": "10-21-2020"
+    },
+    {
+        "id": 23126,
+        "customerName": "Sam",
+        "transactionAmount": 10,
+        "transactionDate": "10-21-2020"
+    },
+    {
+        "id": 23127,
+        "customerName": "Albert",
+        "transactionAmount": 200,
+        "transactionDate": "10-21-2020"
+    },
+    {
+        "id": 23128,
+        "customerName": "Amit",
+        "transactionAmount": 75,
+        "transactionDate": "10-21-2020"
+    },
+    {
+        "id": 23129,
+        "customerName": "Amy",
+        "transactionAmount": 200,
+        "transactionDate": "12-21-2020"
+    },
+    {
+        "id": 23129,
+        "customerName": "Amy",
+        "transactionAmount": 100,
+        "transactionDate": "11-21-2022"
+    },
+    {
+        "id": 231230,
+        "customerName": "Jodi",
+        "transactionAmount": 80,
+        "transactionDate": "10-21-2020"
+    },
+    {
+        "id": 231230,
+        "customerName": "Jodi",
+        "transactionAmount": 100,
+        "transactionDate": "10-21-2020"
+    },
+    {
+        "id": 231231,
+        "customerName": "Robert",
+        "transactionAmount": 365,
+        "transactionDate": "10-11-2020"
+    }
+]
