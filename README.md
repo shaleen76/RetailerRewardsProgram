@@ -11,7 +11,7 @@ Check solution into GitHub
 ### Solution
 
 ###### Application Setup:
-1. Install the required npm packages and setup React JS using the command: ````npm install```` from the folder retailer-rewards-program.
+1. Install the required npm packages and setup React JS using the command: ````npm install```` from the folder **retailer-rewards-program**.
 2. Launch the application using the command: ````npm start````
 3. From any browser navigate to the URL ````localhost:3000````
 
